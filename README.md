@@ -1,5 +1,4 @@
-## **略歴**
-
+## 略歴 <font color="DarkBlue"></font>
 - 1987年8月21日生まれ
 - 2003年4月～2006年3月 徳島県立城南高等学校
 - 2006年4月～2010年3月 慶應義塾大学 理工学部 情報工学科
@@ -38,7 +37,7 @@
 
 
 ## 関係資料/プレスリリース等
-- (https://lccojapan2015.sched.com/bando.yuichi)
+- [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
 - (http://events.linuxfoundation.org/sites/events/files/slides/linuxcon15_bando.pdf)
 - (http://boxsquare.jp/case/3436/)
 - (https://www.akamai.com/jp/ja/about/news/press/2016-press/cloud-server-at-keio-university-uses-fast-dns.jsp)
