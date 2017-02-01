@@ -9,7 +9,13 @@
 - 2015年10月～現在　　 慶應義塾インフォメーションテクノロジーセンター本部
 
 
-### Markdown
+## 学位
+
+- 2010年3月23日 慶應義塾大学理工学部情報工学科 卒業，学士(工学)
+  卒業論文: Peer-to-Peer環境におけるリソース使用量を考慮したサービスレベル管理支援
+
+- 2013年3月25日 東京大学大学院学際情報学府学際情報学専攻 修士課程修了，修士(学際情報学)
+  修士論文: 大災害時オフライン環境のための避難情報事前キャッシュシステム
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -33,10 +39,27 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 受賞
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuichib/yuichib.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 2013年3月25日 東京大学大学院学際情報学府 専攻長賞(コース最優秀)
 
-### Support or Contact
+## 発表
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 2013年3月25日 東京大学大学院学際情報学府 優秀修士論文発表会
+
+- 2015年6月4日 LinuxCon Japan 2015 (査読あり)
+　　　　　　「A Tracing Technique for Understanding the Behavior of Large-Scale Distributed Systems」
+
+- 2016年5月26日 国立情報学研究所 学術情報基盤オープンフォーラム2016 
+　　　　　　「慶應義塾におけるクラウド化への取組みについて」
+
+- 2016年12月14日 大学ITC推進協議会(AXIES) 2016年度年次大会 
+　　　　　　「慶應義塾におけるBoxの導入と利用状況の報告」
+
+## 関係資料/プレスリリース等
+- https://lccojapan2015.sched.com/bando.yuichi
+- http://events.linuxfoundation.org/sites/events/files/slides/linuxcon15_bando.pdf
+- http://boxsquare.jp/case/3436/
+- https://www.akamai.com/jp/ja/about/news/press/2016-press/cloud-server-at-keio-university-uses-fast-dns.jsp
+
+
