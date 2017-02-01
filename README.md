@@ -1,4 +1,4 @@
-## 略歴 <font color="DarkBlue"></font>
+## <font color="DarkBlue">略歴</font>
 - 1987年8月21日生まれ
 - 2003年4月～2006年3月 徳島県立城南高等学校
 - 2006年4月～2010年3月 慶應義塾大学 理工学部 情報工学科
@@ -33,13 +33,13 @@
  「慶應義塾におけるクラウド化への取組みについて」
 
 - 2016年12月14日 大学ITC推進協議会(AXIES) 2016年度年次大会  
-　「慶應義塾におけるBoxの導入と利用状況の報告」
+ 「慶應義塾におけるBoxの導入と利用状況の報告」
 
 
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
-- (http://events.linuxfoundation.org/sites/events/files/slides/linuxcon15_bando.pdf)
-- (http://boxsquare.jp/case/3436/)
-- (https://www.akamai.com/jp/ja/about/news/press/2016-press/cloud-server-at-keio-university-uses-fast-dns.jsp)
+- [LinuxConスライド](http://events.linuxfoundation.org/sites/events/files/slides/linuxcon15_bando.pdf)
+- [Box導入事例](http://boxsquare.jp/case/3436/)
+- [Akamai FastDNS導入事例](https://www.akamai.com/jp/ja/about/news/press/2016-press/cloud-server-at-keio-university-uses-fast-dns.jsp)
 
 
