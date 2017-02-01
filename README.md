@@ -1,8 +1,5 @@
 ## 略歴
 
-```markdown
-Syntax highlighted code block
-
 - 1987年8月21日生まれ
 - 2003年4月～2006年3月 徳島県立城南高等学校
 - 2006年4月～2010年3月 慶應義塾大学 理工学部 情報工学科
@@ -10,18 +7,7 @@ Syntax highlighted code block
 - 2011年4月～2013年3月 東京大学大学院 学際情報学府 総合分析情報学コース
 - 2013年4月～2015年9月 NTT研究所 ソフトウェアイノベーションセンタ
 - 2015年10月～現在　　 慶應義塾インフォメーションテクノロジーセンター本部
-```
 
-### 1987年8月21日生まれ
-### 2003年4月～2006年3月 徳島県立城南高等学校
-### 2006年4月～2010年3月 慶應義塾大学 理工学部 情報工学科
-### 2010年9月～2011年3月 YRPユビキタスネットワーク研究所（修行）
-### 2011年4月～2013年3月 東京大学大学院 学際情報学府 総合分析情報学コース
-### 2013年4月～2015年9月 NTT研究所 ソフトウェアイノベーションセンタ
-### 2015年10月～現在　　 慶應義塾インフォメーションテクノロジーセンター本部
-You can use the [editor on GitHub](https://github.com/yuichib/yuichib.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
