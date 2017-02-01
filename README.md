@@ -1,4 +1,4 @@
-** 坂東 佑一 (Yuichi Bando) **
+# 坂東 佑一 (Yuichi Bando)
 
 ## 略歴
 - 1987年8月21日生まれ
