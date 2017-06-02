@@ -45,5 +45,6 @@
 - [NII 国立情報学研究所 学術情報基盤オープンフォーラム2016](https://www.nii.ac.jp/csi/openforum2016/track/day2_5.html)
 - [Box導入事例](http://boxsquare.jp/case/3436/)
 - [Akamai FastDNS導入事例](https://www.akamai.com/jp/ja/about/news/press/2016-press/cloud-server-at-keio-university-uses-fast-dns.jsp)
-
+- [WebEx導入事例1](http://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/1288-keio-univ.html)
+- [WebEx導入事例2](http://www.uniadex.co.jp//casestudy/education/keio.html)
 
