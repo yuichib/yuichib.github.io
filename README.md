@@ -44,6 +44,8 @@
 - 2017年12月15日 大学ITC推進協議会(AXIES) 2017年度年次大会  
  「慶應義塾におけるWebExの導入と利用状況の報告」
  
+- 2018年1月24日 Boxer会＠新丸ビル EGG JAPAN
+ 「慶應義塾におけるBoxの利用状況」
 
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
