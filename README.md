@@ -46,7 +46,13 @@
  
 - 2018年1月24日 Boxer会＠新丸ビル EGG JAPAN  
  「慶應義塾におけるBoxの利用状況」
-
+ 
+- 2018年6月6日 Box World Tour Tokyo 18  
+ 「Box大学ユーザー会からの研究報告」
+ 
+- 2018年6月20日 国立情報学研究所 学術情報基盤オープンフォーラム2018
+ 「慶應義塾におけるクラウド調達事例および課題認識」
+ 
 
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
@@ -56,4 +62,5 @@
 - [Akamai FastDNS導入事例](https://www.akamai.com/jp/ja/about/news/press/2016-press/cloud-server-at-keio-university-uses-fast-dns.jsp)
 - [WebEx導入事例1](http://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/1288-keio-univ.html)
 - [WebEx導入事例2](http://www.uniadex.co.jp//casestudy/education/keio.html)
+- [Box World Tour資料等](http://boxworldtour.jp/)
 
