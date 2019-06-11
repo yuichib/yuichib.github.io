@@ -74,4 +74,4 @@
 - [WebEx導入事例1](http://www.cisco.com/c/ja_jp/about/case-studies-customer-success-stories/1288-keio-univ.html)
 - [WebEx導入事例2](http://www.uniadex.co.jp//casestudy/education/keio.html)
 - [Box World Tour資料等](http://boxworldtour.jp/)
-- [慶應義塾(動画)：クラウドで大学経営改革を推進](https://boxsquare.jp/case/9422/)
+- [慶應義塾(動画)：クラウドで大学経営改革を推進](https://www.boxsquare.jp/case/keio-university-video)
