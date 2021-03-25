@@ -78,6 +78,17 @@
 - J検対策
 - 卒業制作
  
+## 保有資格
+- 基本情報技術者
+- ソフトウェア開発技術者(現:応用情報技術者)
+- TOEIC スコア 815
+- .com Master ADVANCE ダブルスター
+- python3 エンジニア認定基礎試験
+- Microsoft Technology Associate (MTA): Networking Fundamentals
+- Microsoft Technology Associate (MTA): Security Fundamentals
+- ITパスポート
+- 情報活用試験(J検) 1級
+ 
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
 - [LinuxConスライド](http://events.linuxfoundation.org/sites/events/files/slides/linuxcon15_bando.pdf)
