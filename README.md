@@ -68,7 +68,7 @@
   - 2019年7月18日 Box先行導入大学に学ぶラウンドテーブル in 大阪  
  「慶應義塾における導入事例講演」 
 
-## 担当授業
+## 担当授業 (過去分含)
 - ハードウェア
 - C言語文法・演習
 - Java文法・演習
@@ -76,9 +76,12 @@
 - 表計算基礎
 - 基本情報技術者試験対策
 - J検対策
+- アルゴリズム
 - 卒業制作
  
 ## 保有資格
+- ITパスポート
+- 情報セキュリティマネジメント
 - 基本情報技術者
 - ソフトウェア開発技術者(現:応用情報技術者)
 - TOEIC スコア 815
@@ -86,8 +89,8 @@
 - python3 エンジニア認定基礎試験
 - Microsoft Technology Associate (MTA): Networking Fundamentals
 - Microsoft Technology Associate (MTA): Security Fundamentals
-- ITパスポート
 - 情報活用試験(J検) 1級
+- 色彩検定 UC級
  
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
