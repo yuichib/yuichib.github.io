@@ -90,7 +90,11 @@
 - Microsoft Technology Associate (MTA): Networking Fundamentals
 - Microsoft Technology Associate (MTA): Security Fundamentals
 - 情報活用試験(J検) 1級
-- 色彩検定 UC級
+- 色彩検定 UC級 (色彩検定協会奨励賞 受賞)
+- Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN)
+- Oracle Certified Java Programmer, Silver SE 8(1Z0-808-JPN)
+
+
  
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
