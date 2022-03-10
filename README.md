@@ -22,7 +22,8 @@
 
 ## 受賞
 
-- 2013年3月25日 東京大学大学院学際情報学府 専攻長賞(コース最優秀)
+- 2013年3月 東京大学大学院学際情報学府 専攻長賞(コース最優秀)
+- 2022年3月 色彩検定協会奨励賞 (色彩検定UC級)
 
 
 ## 発表/講演/講師等
@@ -93,6 +94,7 @@
 - 色彩検定 UC級 (色彩検定協会奨励賞 受賞)
 - Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN)
 - Oracle Certified Java Programmer, Silver SE 8(1Z0-808-JPN)
+- Oracle Certified Java Programmer, Gold SE 8(1Z0-809-JPN)
 
 
  
