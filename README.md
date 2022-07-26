@@ -95,6 +95,7 @@
 - Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN)
 - Oracle Certified Java Programmer, Silver SE 8(1Z0-808-JPN)
 - Oracle Certified Java Programmer, Gold SE 8(1Z0-809-JPN)
+- Cisco Certified Network Associate (200-301: CCNA Exam)
 
 
  
