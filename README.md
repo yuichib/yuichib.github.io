@@ -1,6 +1,6 @@
 # 坂東 佑一 (Yuichi Bando) #
 
-![自分](https://www.sanpou-s.net/school/gakkou_img/63/63_jiman_5299.jpg?1677543224 "title")
+![自分の写真](https://user-images.githubusercontent.com/6994913/221875505-9ae325eb-6373-44e6-88d4-438879551f5f.jpg)
 
 ## 略歴
 - 1987年8月21日生まれ
