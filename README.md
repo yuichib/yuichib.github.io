@@ -97,18 +97,18 @@
 - Microsoft Technology Associate (MTA): Networking Fundamentals
 - Microsoft Technology Associate (MTA): Security Fundamentals
 - 情報活用試験(J検) 1級
-- 色彩検定 UC級 (色彩検定協会奨励賞 受賞)
+- 色彩検定 UC級 (色彩検定協会奨励賞)
 - Oracle Certified Java Programmer, Bronze SE (1Z0-818-JPN)
 - Oracle Certified Java Programmer, Silver SE 8(1Z0-808-JPN)
 - Oracle Certified Java Programmer, Gold SE 8(1Z0-809-JPN)
 - Cisco Certified Network Associate (200-301: CCNA Exam)
-- 統計検定 4級 (最優秀成績賞 受賞)
+- 統計検定 4級 (最優秀成績賞)
 - 統計検定 3級
-- 統計検定 2級 (最優秀成績賞 受賞)
+- 統計検定 2級 (最優秀成績賞)
 - 統計検定 準1級
 - 統計検定 データサイエンス発展
-- 統計検定 統計調査士 (最優秀成績賞 受賞)
-- 統計検定 専門統計調査士 (最優秀成績賞 受賞)
+- 統計検定 統計調査士 (最優秀成績賞)
+- 統計検定 専門統計調査士 (最優秀成績賞)
 
  
 ## 関係資料/プレスリリース等
