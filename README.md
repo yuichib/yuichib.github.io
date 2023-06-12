@@ -93,7 +93,7 @@
 - ソフトウェア開発技術者(現:応用情報技術者)
 - TOEIC スコア 815
 - .com Master ADVANCE ダブルスター
-- python3 エンジニア認定基礎試験
+- python3 エンジニア認定基礎試験 [(合格体験記)](https://www.pythonic-exam.com/archives/2223)
 - Microsoft Technology Associate (MTA): Networking Fundamentals
 - Microsoft Technology Associate (MTA): Security Fundamentals
 - 情報活用試験(J検) 1級
@@ -104,11 +104,11 @@
 - Cisco Certified Network Associate (200-301: CCNA Exam)
 - 統計検定 4級 (最優秀成績賞)
 - 統計検定 3級
-- 統計検定 2級 (最優秀成績賞)
+- 統計検定 2級 (最優秀成績賞) [(合格者の声)] (https://www.toukei-kentei.jp/koe/__trashed/)
 - 統計検定 準1級
 - 統計検定 データサイエンス発展
 - 統計検定 統計調査士 (最優秀成績賞)
-- 統計検定 専門統計調査士 (最優秀成績賞)
+- 統計検定 専門統計調査士 (最優秀成績賞) [(合格者の声)] (https://www.toukei-kentei.jp/koe/koe-15187/)
 
  
 ## 関係資料/プレスリリース等
