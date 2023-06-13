@@ -29,7 +29,6 @@
 - [2022年8月 統計検定 4級 最優秀成績賞](https://static.toukei-kentei.jp/wp-content/uploads/20230303163231/cbt_exc202207-12_grade4-20230303163231-20230303163231.pdf)
 - [2022年11月 統計検定 2級 最優秀成績賞](https://static.toukei-kentei.jp/wp-content/uploads/20230303163207/cbt_exc202207-12_grade2-20230303163207-20230303163207.pdf)
 - [2022年12月 統計検定 統計調査士 最優秀成績賞](https://static.toukei-kentei.jp/wp-content/uploads/20230303163243/cbt_exc202207-12_grade5-20230303163243-20230303163243.pdf)
-- [test](https://yahoo.co.jp){:target="_blank"}
 - 2023年2月 統計検定 専門統計調査士 最優秀成績賞
 
 ## 発表/講演/講師等
