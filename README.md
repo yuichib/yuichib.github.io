@@ -120,6 +120,7 @@
 - 実用数学技能検定2級
 - 第1回生成AIパスポート試験
 - JDLA Generative AI Test 2023 #2
+- IoTシステム技術検定 [基礎]
  
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
