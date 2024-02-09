@@ -123,6 +123,8 @@
 - JDLA Generative AI Test 2023 #2
 - IoTシステム技術検定 [基礎]
 - ワイヤレスIoTプランナー検定 [基礎]
+- モバイル技術基礎検定
+- スマートフォン・モバイル実務検定
  
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
