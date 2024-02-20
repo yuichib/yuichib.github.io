@@ -129,6 +129,7 @@
 - モバイル技術基礎検定
 - スマートフォン・モバイル実務検定
 - Linux Professional Institute Security Essentials Exam 020
+- [公開オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/T04yUFhHK2JUWGtLVmw0cGNnckRKZz09)
  
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
