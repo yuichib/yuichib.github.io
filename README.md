@@ -125,6 +125,7 @@
 - ワイヤレスIoTプランナー検定 [基礎]
 - モバイル技術基礎検定
 - スマートフォン・モバイル実務検定
+- Linux Professional Institute Security Essentials Exam 020
  
 ## 関係資料/プレスリリース等
 - [LinuxConプロフィール](https://lccojapan2015.sched.com/bando.yuichi)
