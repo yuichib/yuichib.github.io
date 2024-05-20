@@ -131,6 +131,8 @@
 - スマートフォン・モバイル実務検定
 - Linux Professional Institute Security Essentials Exam 020
 - DX推進パスポート3
+- ビジネス能力検定ジョブパス(B検)3級
+- ビジネス能力検定ジョブパス(B検)2級
 - [公開オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/T04yUFhHK2JUWGtLVmw0cGNnckRKZz09)
  
 ## 関係資料/プレスリリース等
