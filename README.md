@@ -130,6 +130,7 @@
 - IoTシステム技術検定 [中級]
 - ワイヤレスIoTプランナー検定 [基礎]
 - モバイル技術基礎検定
+- モバイルシステム技術検定2級
 - スマートフォン・モバイル実務検定
 - Linux Professional Institute Security Essentials Exam 020
 - DX推進パスポート3
