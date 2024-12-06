@@ -142,6 +142,7 @@
 - QC検定4級
 - QC検定3級
 - JSTQB Foundation Level
+- AWS Certified Cloud Practitioner
 - [公開オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/T04yUFhHK2JUWGtLVmw0cGNnckRKZz09)
  
 ## 関係資料/プレスリリース等
