@@ -145,6 +145,7 @@
 - JSTQB Foundation Level
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS Certified Solutions Architect Associate (SAA-C03)
+- Webアソシエイト
 - [公開オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/T04yUFhHK2JUWGtLVmw0cGNnckRKZz09)
  
 ## 関係資料/プレスリリース等
