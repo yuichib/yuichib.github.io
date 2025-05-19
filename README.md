@@ -134,6 +134,7 @@
 - モバイルシステム技術検定2級
 - スマートフォン・モバイル実務検定
 - Linux Professional Institute Security Essentials Exam 020
+- Linux Professional Institute Linux Essentials Exam 010
 - DX推進パスポート3
 - ビジネス能力検定ジョブパス(B検)3級
 - ビジネス能力検定ジョブパス(B検)2級
