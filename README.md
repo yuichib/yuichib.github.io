@@ -148,6 +148,8 @@
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS Certified Solutions Architect Associate (SAA-C03)
 - Webアソシエイト
+- 工事担任者資格 (第二級デジタル通信)
+- 工事担任者資格 (第二級アナログ通信)
 - LPIC レベル1 (101, 102)
 - [公開オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/T04yUFhHK2JUWGtLVmw0cGNnckRKZz09)
  
