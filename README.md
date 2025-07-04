@@ -152,6 +152,7 @@
 - 工事担任者第二級アナログ通信 (総務省)
 - 工事担任者第二級デジタル通信 (総務省)
 - LPIC レベル1 (101, 102)
+- LPIC レベル2 (201, 202)
 - NCPA認定ノーコードパスポート サファイア
 - [公開オープンバッジ](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/T04yUFhHK2JUWGtLVmw0cGNnckRKZz09)
  
