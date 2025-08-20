@@ -133,6 +133,7 @@
 - ワイヤレスIoTプランナー検定 [基礎]
 - モバイル技術基礎検定
 - モバイルシステム技術検定2級
+- モバイルシステム技術検定1級
 - スマートフォン・モバイル実務検定
 - Linux Professional Institute Security Essentials Exam 020
 - Linux Professional Institute Linux Essentials Exam 010
