@@ -146,9 +146,11 @@
 - 知的財産管理技能検定2級
 - QC検定4級
 - QC検定3級
+- QC検定2級
 - JSTQB Foundation Level
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS Certified Solutions Architect Associate (SAA-C03)
+- Azure Fundamentals (AZ-900)
 - Webアソシエイト
 - 工事担任者第二級アナログ通信 (総務省)
 - 工事担任者第二級デジタル通信 (総務省)
