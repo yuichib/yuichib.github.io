@@ -149,6 +149,7 @@
 - JSTQB Foundation Level
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS Certified Solutions Architect Associate (SAA-C03)
+- AWS Certified AI Practitioner (AIF-C01)
 - Azure Fundamentals (AZ-900)
 - Azure Data Fundamentals (DP-900)
 - Azure AI Fundamentals (AI-900)
