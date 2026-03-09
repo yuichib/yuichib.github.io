@@ -106,6 +106,7 @@
 - Oracle Certified Java Programmer, Silver SE 8(1Z0-808-JPN)
 - Oracle Certified Java Programmer, Gold SE 8(1Z0-809-JPN)
 - Cisco Certified Network Associate (200-301: CCNA Exam)
+- Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
 - 統計検定 4級 (最優秀成績賞)
 - 統計検定 3級
 - 統計検定 2級 (最優秀成績賞) [(合格者の声)](https://www.toukei-kentei.jp/koe/__trashed/)
