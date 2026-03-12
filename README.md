@@ -154,6 +154,7 @@
 - Azure Fundamentals (AZ-900)
 - Azure Data Fundamentals (DP-900)
 - Azure AI Fundamentals (AI-900)
+- Microsoft認定: Microsoft 365 Fundamentals (MS-900)
 - Microsoft認定: Security, Compliance, and Identity Fundamentals (SC-900)
 - Webアソシエイト
 - 工事担任者第二級アナログ通信 (総務省)
